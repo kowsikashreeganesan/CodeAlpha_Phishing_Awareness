@@ -54,8 +54,8 @@ malicious.
 - Building a menu-driven cybersecurity application
 
 ## Author
-Add your name here.
+Kowsikashree G.
 
-## Disclaimer
-This project is for educational and cybersecurity awareness
-purposes only.
+## Internship
+
+CodeAlpha-Basic Network Sniffer Project
